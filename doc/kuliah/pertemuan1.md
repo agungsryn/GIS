@@ -14,6 +14,6 @@
 
 **Longitude** adalah sebuah garis horizontal yang membagi daerah menjadi bagian utara dan selatan
 
-<img src="./media/image1.jpeg" width="361" height="240" />
+<img src="https://2.bp.blogspot.com/-uoR0yck3kHs/V_zae2H50_I/AAAAAAAAAFU/4bWn71J4d9QI2RCVCpikZHd689G-jNX0gCLcB/s1600/gis.jpg" width="361" height="240" />
 
 Titik dengan kordinat (0,0) terletak di sebuah danau gulf of guinea di afrika
